@@ -5,7 +5,7 @@ function MyInfo(){
             <p className="card-text"><b>Name:</b> Ahmad Numan</p>
             <p className="card-text"><b>Profession:</b> Web Developer</p>
             <p className="card-text"><b>Email:</b> ahmadnuman.dev@gmail.com</p>
-                <p className="card-text"><b>Location:</b> Jordan - Amman</p>
+            <p className="card-text"><b>Location:</b> Jordan - Amman</p>
         </>
     );
 
